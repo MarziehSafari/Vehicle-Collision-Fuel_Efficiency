@@ -1,7 +1,7 @@
 # NYC Traffic Safety & Fuel Efficiency Analysis
 This repository contains a two-part data science study focused on urban mobility in New York City. The first part investigates **Motor Vehicle Collisions** to identify high-risk areas and demographics, while the second part focuses on **Fuel Efficiency** and **Predictive Modeling**.
 
-### 🚦 Part 1: NYC Collision Analysis (2021)
+### 🚦 Part 1: NYC Collision Analysis
 This project analyzes traffic accident patterns across NYC to pinpoint high-risk zones and contributing factors using geospatial and statistical tools.
 
 #### Objectives
