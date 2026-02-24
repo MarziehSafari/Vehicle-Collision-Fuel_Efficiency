@@ -5,7 +5,7 @@ This repository contains a two-part data science study focused on urban mobility
 This project analyzes traffic accident patterns across NYC to pinpoint high-risk zones and contributing factors using geospatial and statistical tools.
 
 #### Objectives
-**Data Integration:** Retrieve real-time data from NYC OpenData via API calls.
+**Data Integration:** Retrieve real-time data from NYC OpenData via API calls.  
 **Preprocessing:** Clean and structure raw JSON/CSV data for spatial analysis.
 **Geospatial Visualization:** Map crash locations using Folium to identify hotspots.
 **Statistical Profiling:** Identify correlations between vehicle makes, driver demographics, and crash frequency.
